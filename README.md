@@ -1,5 +1,4 @@
-# ApexLegendsMatchmaker
-Enhancing competitive play in Apex Legends through data-driven techniques and machine learning
+# Enhancing competitive play in Apex Legends through data-driven techniques and machine learning
 
 
 # Abstract 
@@ -8,13 +7,13 @@ Our research aims to enhance competitive play in Apex Legends by developing a da
  
 # Apex Team Maker Application 
 
-# Introduction 
+Introduction 
 Apex Legends, released in February 2019, is a battle royale game where 20 squads of 3 players compete until one team remains. Players choose from various legends, each with unique abilities. No team can have more than 1 of each legend. As the game progresses, the ‘ring’ or playable space shrinks forcing players to fight.
 
 
 # Application Features 
 
-# Questionnaire: 
+Questionnaire: 
 Users fill out a form with their details
 
 # Information collected includes: 

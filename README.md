@@ -7,24 +7,35 @@ Our research aims to enhance competitive play in Apex Legends by developing a da
  
 # Apex Team Maker Application 
 
-Introduction 
+Introduction: 
+
 Apex Legends, released in February 2019, is a battle royale game where 20 squads of 3 players compete until one team remains. Players choose from various legends, each with unique abilities. No team can have more than 1 of each legend. As the game progresses, the ‘ring’ or playable space shrinks forcing players to fight.
 
 
 # Application Features 
 
 Questionnaire: 
+
 Users fill out a form with their details
 
 # Information collected includes: 
+
 EA ID: User's Electronic Arts ID for finding statistics. 
+
 Overstat ID: User’s Overstat ID for finding competitive statistics.
+
 Region: Options include North America, EMEA, APAC, etc. 
+
 Input: Mouse and Keyboard, Controller. 
+
 Role: Preferred position (IGL, Fragger, Anchor, etc.). 
+
 Role 2: Secondary role choice
+
 Main Legend: The character the user is most comfortable playing. 
+
 Secondary Legend. 
+
 Flex Legend. 
 
 # Matchmaker: 
@@ -71,8 +82,11 @@ RandomRoyaleLobbies.py: Clusters players into equally sized groups and assigns t
 # Future Adaptations  
 
 Transform this project into a full stack.
+
 Add a database, probably relational.
+
 Allow users to create accounts.
+
 Add Leagues to separate skill levels.
     For example, when filling out a questionnaire, players could select communities they are active in, this would help the machine get an idea of who belongs in what skill       tier and could be used in filtering matches. This could also be utilized in creating Random Royale lobbies.
     
